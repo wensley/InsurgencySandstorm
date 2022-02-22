@@ -1,0 +1,28 @@
+150867; ISMCmod
+1516914; ISMC Resources (ISMCr)
+1517578; ISMC Delta (ISMCu)
+98373; More Ammo Mutator [1.9]
+101966; Join Leave Message (v2.0.6)
+132183; Welcome Message (1.0.3)
+132641; Advanced Chat
+98145; No Restricted Area Mutator [1.9]
+110010; Thermal Vision [1.7.1]
+165408; HealthRegen
+405400; Fire Supports
+631893; Redback - Armoury
+119098; TacticalBots
+1490524; PrintCount
+93591; mutator=CoopMutator_Security
+915059; MOTD-Reeborn-OPENSOURCE
+148369; MOTD(Reworked)
+93636; ImprovedAI
+1165213; Azaw 
+580499; Oasis
+591426; Tell classic
+#882589; BadLands
+#852962; DryCanalNF
+#851078; 2014Inss
+#167049; ISMC Characters
+#169475; Project Binford
+#312515; Project Vandelay
+#135937; Tactical Armory [1.8 ALPHA] 
