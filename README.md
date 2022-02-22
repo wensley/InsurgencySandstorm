@@ -1,0 +1,2 @@
+# InsurgencySandstorm
+Server config
