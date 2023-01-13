@@ -5,7 +5,6 @@
 98373; More Ammo Mutator [1.9]
 101966; Join Leave Message (v2.0.6)
 132183; Welcome Message (1.0.3)
-132641; Advanced Chat
 98145; No Restricted Area Mutator [1.9]
 110010; Thermal Vision [1.7.1]
 165408; HealthRegen
@@ -19,11 +18,10 @@
 93636; ImprovedAI
 1165213; Azaw 
 580499; Oasis
-591426; Tell classic
+#591426; Tell classic
 #882589; BadLands
 #852962; DryCanalNF
 #851078; 2014Inss
 #167049; ISMC Characters
-#169475; Project Binford
-#312515; Project Vandelay
+
 
